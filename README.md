@@ -1,2 +1,3 @@
 # Chasing_Star-HizDemo
-A Demo for Hiz Culing
+使用Hiz进行剔除。
+## 演示视频
